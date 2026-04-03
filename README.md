@@ -6,6 +6,7 @@ Reference publication: Marongiu, P. & Sassolini, E. (2026). From Lemmatization t
 Website: https://dbtvm1.ilc.cnr.it/digesto/
 
 Publications about the project:
+
 Cinini, A., Marongiu, P., Sassolini, E., & Monachini, M. (2025). Preserving and enhancing cultural heritage: The Digest project. Diversità, equità e inclusione: Sfide e opportunità per l’informatica umanistica nell’era dell’intelligenza artificiale. Proceedings del XIV Convegno Annuale AIUCD2025. Verona 11-13 giugno 2025, Università di Verona. pp. 600 - 607. ISBN: 978-88-942535-9-7, DOI: 10.6092/unibo/amsacta/8380. In: Quaderni di Umanistica Digitale. 2025.
 
 Cinini, A., Marongiu, P., & Sassolini, E. (2025). Il corpus del Digesto: approcci e metodi computazionali per la creazione di risorse linguistiche. Proceedings del XIV Convegno Annuale AIUCD2025. Verona 11-13 giugno 2025, Università di Verona. pp. 379 - 385. ISBN: 978-88-942535-9-7, DOI: 10.6092/unibo/amsacta/8380. In: Quaderni di Umanistica Digitale. 2025.
